@@ -1,3 +1,3 @@
-# practica-5
-1) presione crear index.html, al aldo de practica-5
-2) luego va a la parte final de pagina y ahi encontrara el link de la practica
+
+1) presione index.html, al lado de Dennys2894
+2) luego va a la parte final de pagina y ahi encontrara el link de la practic
